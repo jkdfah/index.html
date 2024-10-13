@@ -1,0 +1,14 @@
+<head>
+    <title>My Introduction</title>
+    <style>
+        body {background-color: #76AE88;}
+        h1 {color: #44454A;}
+        p {color: #DCE66E;}
+    </style>
+</head>
+<body>
+    <h1>My name is Rico Glover</h1>
+    <p>I am a student at wake tech community college. I enjoy coding and solving problems. In my free time, I like to read books and play video games.</p>
+    <p>I also have experience working with Hyper-V Manager for virtual machines and am learning how different operating systems work.</p>
+    <p>Recently, I've been working on improving my time management and balancing school with a part-time job.</p>
+</body>
